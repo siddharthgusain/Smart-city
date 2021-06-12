@@ -9,3 +9,6 @@ A smart city prototype with 8 automated modules
 6. Smart Garbage System
 7. Smart Traffic light 
 8. Smart Water Quality System
+## Images
+![model](/images/model.jpg)
+![parking](/images/parking.jpg)
